@@ -29,5 +29,11 @@
 </template>
 
 <style scoped>
-
+nav {
+  ul {
+    li:hover {
+      color: #0891B2;
+    }
+  }
+}
 </style>
