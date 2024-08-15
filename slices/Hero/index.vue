@@ -43,7 +43,7 @@ defineProps(
       </div>
       <PrismicImage
         :field="slice.primary.image"
-        class="max-w-4xl w-ful drop-shadow-xl"
+        class="w-ful drop-shadow-xl"
       />
     </div>
   </Bounded>
